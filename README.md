@@ -110,6 +110,7 @@
 
 ## Go 
 
+- [cyclops-ui/cyclops](https://github.com/cyclops-ui/cyclops) - customizable UI for Kubernetes workloads  👁️
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [NVIDIA/gpu-operator](https://github.com/NVIDIA/gpu-operator) - NVIDIA GPU Operator creates/configures/manages GPUs atop Kubernetes
