@@ -34,6 +34,7 @@
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
+- [clojure](#clojure)
 - [code](#code)
 - [code-quality](#code-quality)
 - [code-review](#code-review)
@@ -321,7 +322,7 @@
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - The official Go library for the Cloudflare API
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 ## arduino 
@@ -341,6 +342,7 @@
 
 ## automation 
 
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform for TypeScript.
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
@@ -555,6 +557,10 @@
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
+
+## clojure 
+
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 
 ## code 
 
@@ -829,6 +835,7 @@
 
 ## design 
 
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
@@ -1059,7 +1066,7 @@
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [cloudwego/kitex](https://github.com/cloudwego/kitex) - Go RPC framework with high-performance and strong-extensibility for building micro-services.
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 
 ## frontend 
 
@@ -1901,7 +1908,7 @@
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [google/jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 
@@ -2337,6 +2344,7 @@
 
 ## nextjs 
 
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform for TypeScript.
 - [sersavan/shadcn-multi-select-component](https://github.com/sersavan/shadcn-multi-select-component) - A multi-select component designed with shadcn/ui
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
 - [TheSGJ/nextjs-toploader](https://github.com/TheSGJ/nextjs-toploader) - A Next.js Top Loading Bar component made using nprogress, works with Next.js 14 , Next.js 13 and React.
@@ -2903,7 +2911,7 @@
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
 - [biolab/orange3](https://github.com/biolab/orange3) - 🍊 :bar_chart: :bulb: Orange: Interactive data analysis
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on delimited files and multi-file sqlite databases
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
@@ -2938,7 +2946,7 @@
 - [oauthlib/oauthlib](https://github.com/oauthlib/oauthlib) - A generic, spec-compliant, thorough implementation of the OAuth request-signing logic
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [fake-useragent/fake-useragent](https://github.com/fake-useragent/fake-useragent) - Up-to-date simple useragent faker with real world database
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark) - Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -3231,6 +3239,7 @@
 
 ## serverless 
 
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform for TypeScript.
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [taubyte/tau](https://github.com/taubyte/tau) - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
 - [MoonMail/MoonMail](https://github.com/MoonMail/MoonMail) - Email marketing platform for bulk emailing via Amazon SES (Google Cloud Platform and Azure coming soon)
@@ -3534,7 +3543,7 @@
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 
