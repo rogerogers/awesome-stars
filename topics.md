@@ -2780,6 +2780,7 @@
 
 ## php 
 
+- [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) - The OpenTelemetry PHP Library
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.4. PHP 8.4 is built nightly.
 - [bavix/laravel-wallet](https://github.com/bavix/laravel-wallet) - It's easy to work with a virtual wallet
