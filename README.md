@@ -808,7 +808,7 @@
 - [marcobiedermann/search-engine-optimization](https://github.com/marcobiedermann/search-engine-optimization) - 🔍 A helpful checklist/collection of Search Engine Optimization (SEO) tips and techniques.
 - [openebs/openebs](https://github.com/openebs/openebs) - Most popular & widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes.
 - [k8s-club/k8s-club](https://github.com/k8s-club/k8s-club) - K8s-club for learn, share and explore the K8s world :)
-- [Java-Edge/Java-Interview-Tutorial](https://github.com/Java-Edge/Java-Interview-Tutorial) - 建议star，不要fork，因为我喜欢force push！涵盖互联网大厂数据库、缓存、DDD、设计模式、微服务架构、主流中间件框架原理及真实业务最佳实践。欢迎关注公众号：JavaEdge，一起交流学习！
+- [Java-Edge/Java-Interview-Tutorial](https://github.com/Java-Edge/Java-Interview-Tutorial) - 请star，勿fork，因为爱force push！涵盖国际大厂Java/数据库/DDD/设计模式/微服务/中间件/AI大模型应用/区块链开发最佳实践。关注公众号【JavaEdge】，一起交流学习！
 - [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
