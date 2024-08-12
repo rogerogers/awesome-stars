@@ -154,7 +154,6 @@
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative 📊, 🖥️, 👉. Powered by eBPF for rapid insights into system performance. Monitor, analyze, and optimize your infrastr
 - [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt
 - [cloudwego/biz-demo](https://github.com/cloudwego/biz-demo) - Business Demo for CloudWeGo
-- [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted links shortener and sharing platform. Save and share your links very easily
 - [openGemini/openGemini](https://github.com/openGemini/openGemini) - An open source distributed time-series database with high concurrency, high performance, and high scalability
 - [nicksnyder/go-i18n](https://github.com/nicksnyder/go-i18n) - Translate your Go program into multiple languages.
 - [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
@@ -668,6 +667,8 @@
 
 ## JavaScript 
 
+- [debug-js/debug](https://github.com/debug-js/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
+- [panva/node-openid-client](https://github.com/panva/node-openid-client) - OpenID Certified™ Relying Party (OpenID Connect/OAuth 2.0 Client) implementation for Node.js.
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
 - [laravel/breeze-next](https://github.com/laravel/breeze-next) - An application / authentication starter kit frontend in Next.js for Laravel Breeze.
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
@@ -808,7 +809,6 @@
 - [marcobiedermann/search-engine-optimization](https://github.com/marcobiedermann/search-engine-optimization) - 🔍 A helpful checklist/collection of Search Engine Optimization (SEO) tips and techniques.
 - [openebs/openebs](https://github.com/openebs/openebs) - Most popular & widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes.
 - [k8s-club/k8s-club](https://github.com/k8s-club/k8s-club) - K8s-club for learn, share and explore the K8s world :)
-- [Java-Edge/Java-Interview-Tutorial](https://github.com/Java-Edge/Java-Interview-Tutorial) - 请star，勿fork，因为爱force push！涵盖国际大厂Java/数据库/DDD/设计模式/微服务/中间件/AI大模型应用/区块链开发最佳实践。关注公众号【JavaEdge】，一起交流学习！
 - [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
@@ -1117,6 +1117,7 @@
 - [dnephin/pre-commit-golang](https://github.com/dnephin/pre-commit-golang) - Golang hooks for pre-commit
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - Kubernetes中文指南/云原生应用架构实战手册
+- [Java-Edge/Java-Interview-Tutorial](https://github.com/Java-Edge/Java-Interview-Tutorial) - 请star，勿fork，因为爱force push！涵盖国际大厂Java/数据库/DDD/设计模式/微服务/中间件/AI大模型应用/区块链开发最佳实践。关注公众号【JavaEdge】，一起交流学习！
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
@@ -1193,6 +1194,7 @@
 - [jeffijoe/awilix](https://github.com/jeffijoe/awilix) - Extremely powerful Inversion of Control (IoC) container for Node.JS
 - [medusajs/nextjs-starter-medusa](https://github.com/medusajs/nextjs-starter-medusa) - A performant frontend ecommerce starter template with Next.js 14 and Medusa.
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
+- [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted links shortener and sharing platform. Save and share your links very easily
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 - [horizon-ui/horizon-tailwind-react-nextjs](https://github.com/horizon-ui/horizon-tailwind-react-nextjs) - Horizon UI Tailwind CSS NextJS ❇️ The trendiest & innovative Open Source Admin Dashboard Template for Tailwind CSS, NextJS & React!
