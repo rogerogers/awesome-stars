@@ -2123,6 +2123,7 @@
 
 ## laravel 
 
+- [robsontenorio/laravel-keycloak-guard](https://github.com/robsontenorio/laravel-keycloak-guard) - 🔑 Simple Keycloak Guard for Laravel
 - [laravel/cashier-stripe](https://github.com/laravel/cashier-stripe) - Laravel Cashier provides an expressive, fluent interface to Stripe's subscription billing services.
 - [laravel/fortify](https://github.com/laravel/fortify) - Backend controllers and scaffolding for Laravel authentication.
 - [laravel/breeze-next](https://github.com/laravel/breeze-next) - An application / authentication starter kit frontend in Next.js for Laravel Breeze.
