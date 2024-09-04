@@ -860,6 +860,7 @@
 
 ## Python 
 
+- [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
 - [dmontagu/fastapi-utils](https://github.com/dmontagu/fastapi-utils) - Reusable utilities for FastAPI
