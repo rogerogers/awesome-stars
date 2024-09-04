@@ -2929,6 +2929,7 @@
 
 ## python 
 
+- [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
 - [rq/rq](https://github.com/rq/rq) - Simple job queues for Python
