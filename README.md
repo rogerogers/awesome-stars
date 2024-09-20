@@ -637,6 +637,7 @@
 
 ## Java 
 
+- [CyrilFeng/Q-calculator](https://github.com/CyrilFeng/Q-calculator) - 高性能优惠叠加计算框架
 - [apache/avro](https://github.com/apache/avro) - Apache Avro is a data serialization system.
 - [quarkusio/quarkus](https://github.com/quarkusio/quarkus) - Quarkus: Supersonic Subatomic Java.
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
