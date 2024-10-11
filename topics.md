@@ -1818,6 +1818,7 @@
 - [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
 - [virgili0/Virgilio](https://github.com/virgili0/Virgilio) - Your new Mentor for Data Science E-Learning.
 - [saleor/saleor-dashboard](https://github.com/saleor/saleor-dashboard) - A GraphQL-powered, single-page dashboard application for Saleor.
+- [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
