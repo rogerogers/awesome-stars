@@ -878,6 +878,7 @@
 
 ## Python 
 
+- [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator) - ASCII generator (image to text, image to image, video to video)
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [Shopify/shopify_python_api](https://github.com/Shopify/shopify_python_api) - ShopifyAPI library allows Python developers to programmatically access the admin section of stores
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
@@ -1027,7 +1028,7 @@
 - [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
-- [2captcha/2captcha-python](https://github.com/2captcha/2captcha-python) - Python 3 package for easy integration with the API of 2captcha captcha solving service to bypass recaptcha, hcaptcha, сloudflare turnstile, funcaptcha, geetest and solve any other captchas.
+- [2captcha/2captcha-python](https://github.com/2captcha/2captcha-python) - Python 3 package for easy integration with the API of 2captcha captcha solving service to bypass recaptcha, сloudflare turnstile, funcaptcha, geetest and solve any other captchas.
 - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
