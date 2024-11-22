@@ -632,6 +632,7 @@
 - [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - 🚨 GROW YOUR AUDIENCE WITH HUGOBLOX! 🚀 HugoBlox is an easy, fast no-code website builder for researchers, entrepreneurs, data scientists, and developers. Build stunning sites in minutes. 适合研究人员、企业家、数据科
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
 - [confluentinc/confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go) - Confluent's Apache Kafka Golang client
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [cnych/qikqiak.com](https://github.com/cnych/qikqiak.com) - 关注 chatgpt、容器、kubernetes、devops、python、golang、微服务等技术 🎉🎉🎉
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -824,7 +825,6 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [mayuelala/FollowYourClick](https://github.com/mayuelala/FollowYourClick) - [arXiv 2024] Follow-Your-Click: This repo is the official implementation of "Follow-Your-Click: Open-domain Regional Image Animation via Short Prompts"
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 精益副业：程序员如何优雅地做副业
 - [StyraInc/awesome-opa](https://github.com/StyraInc/awesome-opa) - A curated list of OPA related tools, frameworks and articles
 - [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps) - Ultimate DevSecOps library
@@ -1314,7 +1314,7 @@
 - [unlight/tailwind-components](https://github.com/unlight/tailwind-components) - Collection of components found on the internet
 - [requestly/requestly](https://github.com/requestly/requestly) - Requestly was built to save developers time by intercepting and modifying HTTP Requests. It has now developed into an open-source alternative to Charles Proxy and Telerik Fiddler that works directly i
 - [JohnBra/vite-web-extension](https://github.com/JohnBra/vite-web-extension) - Vite web extension template. Setup with React, Typescript and TailwindCSS
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution. You can run any Docker image on sealos, start high availability databases like mysql/pgsql/redis/mongo, develop applications using any Programming
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution. You can create any programming language and any framework development Env, create high availability databases like mysql/pgsql/redis/mongo, and ru
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [google/brotli](https://github.com/google/brotli) - Brotli compression format
 - [Kanaries/Rath](https://github.com/Kanaries/Rath) - Next generation of automated data exploratory analysis and visualization platform.
