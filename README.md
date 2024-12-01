@@ -1096,6 +1096,7 @@
 
 ## Rust 
 
+- [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
 - [bytedance/monoio](https://github.com/bytedance/monoio) - Rust async runtime based on io-uring.
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [cloudwego/monolake](https://github.com/cloudwego/monolake) - Rust framework for building high-performance network services
@@ -1214,6 +1215,7 @@
 
 ## TypeScript 
 
+- [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
