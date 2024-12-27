@@ -119,6 +119,10 @@
 
 ## Go 
 
+- [connectrpc/vanguard-go](https://github.com/connectrpc/vanguard-go) - Support REST, gRPC, gRPC-Web, and Connect clients with one server.
+- [connectrpc/connect-go](https://github.com/connectrpc/connect-go) - The Go implementation of Connect: Protobuf RPC that works.
+- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
+- [steebchen/prisma-client-go](https://github.com/steebchen/prisma-client-go) - Prisma Client Go is an auto-generated and fully type-safe database client
 - [gofr-dev/gofr](https://github.com/gofr-dev/gofr) - An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.
 - [fluid-cloudnative/fluid](https://github.com/fluid-cloudnative/fluid) - Fluid, elastic data abstraction and acceleration for BigData/AI applications in cloud. (Project under CNCF)
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
@@ -567,7 +571,7 @@
 - [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:
 - [hertz-contrib/registry](https://github.com/hertz-contrib/registry) - The service registration & discovery extensions for Hertz
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database designed to scale seamlessly. It’s the ideal solution for powering Generative AI applications. Proudly developed and maintained by Zilliz.
 - [hertz-contrib/obs-opentelemetry](https://github.com/hertz-contrib/obs-opentelemetry) - Opentelemetry for Hertz
 - [bsm/redislock](https://github.com/bsm/redislock) - Simplified distributed locking implementation using Redis
 - [kitex-contrib/obs-opentelemetry](https://github.com/kitex-contrib/obs-opentelemetry) - An extension library of OpenTelemetry for Kitex
@@ -698,6 +702,7 @@
 
 ## JavaScript 
 
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) - A lightweight polyfill library for Promise-based WebExtension APIs in Chrome
 - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
 - [garmeeh/next-seo](https://github.com/garmeeh/next-seo) - Next SEO is a plug in that makes managing your SEO easier in Next.js projects.
@@ -775,7 +780,6 @@
 
 ## Jupyter Notebook 
 
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
 - [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [lyhue1991/eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days) - Pytorch🍊🍉   is delicious, just eat it! 😋😋
@@ -893,6 +897,7 @@
 - [cloudflare/python-workers-examples](https://github.com/cloudflare/python-workers-examples) - 
 - [mher/flower](https://github.com/mher/flower) - Real-time monitor and web admin for Celery distributed task queue
 - [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator) - ASCII generator (image to text, image to image, video to video)
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
 - [Shopify/shopify_python_api](https://github.com/Shopify/shopify_python_api) - ShopifyAPI library allows Python developers to programmatically access the admin section of stores
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
@@ -1104,6 +1109,8 @@
 
 ## Rust 
 
+- [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
+- [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
 - [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
 - [bytedance/monoio](https://github.com/bytedance/monoio) - Rust async runtime based on io-uring.
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
