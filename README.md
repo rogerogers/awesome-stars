@@ -119,6 +119,7 @@
 
 ## Go 
 
+- [bufbuild/protovalidate](https://github.com/bufbuild/protovalidate) - Protocol Buffer Validation - Go, Java, Python, and C++ Beta Releases!
 - [cloudflare/cbpfc](https://github.com/cloudflare/cbpfc) - cBPF to C or eBPF compiler
 - [bytedance/netcap](https://github.com/bytedance/netcap) - 
 - [connectrpc/vanguard-go](https://github.com/connectrpc/vanguard-go) - Support REST, gRPC, gRPC-Web, and Connect clients with one server.
@@ -210,7 +211,7 @@
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [coocood/freecache](https://github.com/coocood/freecache) - A cache library for Go with zero GC overhead.
 - [allegro/bigcache](https://github.com/allegro/bigcache) - Efficient cache for gigabytes of data written in Go.
-- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - serve as a reverse proxy to protect your web services from attacks and exploits.
+- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server
 - [hashicorp/hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
 - [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution.
@@ -272,7 +273,7 @@
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
 - [evanphx/json-patch](https://github.com/evanphx/json-patch) - A Go library to apply RFC6902 patches and create and apply RFC7386 patches
 - [graphql-go/graphql](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go / Golang
-- [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
+- [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
 - [swaggo/swag](https://github.com/swaggo/swag) - Automatically generate RESTful API documentation with Swagger 2.0 for Go.
 - [tidwall/btree](https://github.com/tidwall/btree) - B-tree implementation for Go
@@ -573,7 +574,7 @@
 - [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:
 - [hertz-contrib/registry](https://github.com/hertz-contrib/registry) - The service registration & discovery extensions for Hertz
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database designed to scale vector search.
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
 - [hertz-contrib/obs-opentelemetry](https://github.com/hertz-contrib/obs-opentelemetry) - Opentelemetry for Hertz
 - [bsm/redislock](https://github.com/bsm/redislock) - Simplified distributed locking implementation using Redis
 - [kitex-contrib/obs-opentelemetry](https://github.com/kitex-contrib/obs-opentelemetry) - An extension library of OpenTelemetry for Kitex
@@ -648,7 +649,7 @@
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [cnych/qikqiak.com](https://github.com/cnych/qikqiak.com) - 关注 chatgpt、容器、kubernetes、devops、python、golang、微服务等技术 🎉🎉🎉
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [thuliteio/doks](https://github.com/thuliteio/doks) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use.
 - [google/docsy](https://github.com/google/docsy) - Hugo theme for open source documentation
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
@@ -704,6 +705,8 @@
 
 ## JavaScript 
 
+- [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
+- [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) - A lightweight polyfill library for Promise-based WebExtension APIs in Chrome
@@ -1224,6 +1227,7 @@
 
 ## Starlark 
 
+- [google/cel-spec](https://github.com/google/cel-spec) - Common Expression Language -- specification and binary representation
 - [googleapis/googleapis](https://github.com/googleapis/googleapis) - Public interface definitions of Google APIs.
 - [cncf/xds](https://github.com/cncf/xds) - xDS API Working Group
 
@@ -1233,6 +1237,8 @@
 
 ## TypeScript 
 
+- [bcherny/json-schema-to-typescript](https://github.com/bcherny/json-schema-to-typescript) - Compile JSON Schema to TypeScript type declarations
+- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced browser fingerprinting library.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
@@ -1425,6 +1431,7 @@
 
 ## Zig 
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
