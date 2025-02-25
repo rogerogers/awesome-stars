@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Blade](#blade)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -43,6 +44,10 @@
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [Zig](#zig)
+
+## Blade 
+
+- [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 
 ## C 
 
@@ -900,7 +905,6 @@
 - [Shopify/shopify-api-php](https://github.com/Shopify/shopify-api-php) - 
 - [bavix/laravel-wallet](https://github.com/bavix/laravel-wallet) - It's easy to work with a virtual wallet
 - [DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - Sample code for several design patterns in PHP 8.x
-- [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 - [aimeos/aimeos-laravel](https://github.com/aimeos/aimeos-laravel) - Laravel ecommerce package for ultra fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop is the universal open-source software platform to build your e-commerce solution.
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - Sends your logs to files, sockets, inboxes, databases and various web services
