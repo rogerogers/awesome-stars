@@ -817,6 +817,7 @@
 
 ## Jupyter Notebook 
 
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [lyhue1991/eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days) - Pytorch🍊🍉   is delicious, just eat it! 😋😋
@@ -1358,7 +1359,6 @@
 - [Shopify/hydrogen](https://github.com/Shopify/hydrogen) - Hydrogen lets you build faster headless storefronts in less time, on Shopify.
 - [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [teambit/bit](https://github.com/teambit/bit) - A build system for development of composable software.
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [MinJieLiu/react-photo-view](https://github.com/MinJieLiu/react-photo-view) - An exquisite React photo preview component.
