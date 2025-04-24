@@ -126,6 +126,7 @@
 
 ## Go 
 
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [gorilla/csrf](https://github.com/gorilla/csrf) - Package gorilla/csrf provides Cross Site Request Forgery (CSRF) prevention middleware for Go web applications & services 🔒
 - [grafana/ckit](https://github.com/grafana/ckit) - Lightweight library for clustering and workload distribution
 - [mingrammer/flog](https://github.com/mingrammer/flog) - :tophat: A fake log generator for common log formats
