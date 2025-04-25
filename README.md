@@ -55,6 +55,7 @@
 
 ## C 
 
+- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged
 - [lexbor/lexbor](https://github.com/lexbor/lexbor) - Lexbor is development of an open source HTML Renderer library. https://lexbor.com
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
@@ -591,7 +592,7 @@
 - [kiali/kiali](https://github.com/kiali/kiali) - Kiali project, observability for the Istio service mesh
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
-- [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
+- [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
