@@ -133,6 +133,7 @@
 
 ## Go 
 
+- [goccy/go-yaml](https://github.com/goccy/go-yaml) - YAML support for the Go language
 - [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [gorilla/csrf](https://github.com/gorilla/csrf) - Package gorilla/csrf provides Cross Site Request Forgery (CSRF) prevention middleware for Go web applications & services 🔒
@@ -1060,7 +1061,7 @@
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Cloud Security tool for AWS, Azure, GCP and Kubernetes. It helps for continuos monitoring, security assessments and audits, incident response, compliance, hardening and forensics re
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Cloud Security Platform for AWS, Azure, GCP, Kubernetes, M365 and more. It helps for continuos monitoring, security assessments and audits, incident response, compliance, hardening 
 - [microsoft/BioGPT](https://github.com/microsoft/BioGPT) - 
 - [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
