@@ -1291,6 +1291,7 @@
 
 ## TypeScript 
 
+- [software-mansion/react-native-screens](https://github.com/software-mansion/react-native-screens) - Native navigation primitives for your React Native app.
 - [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
 - [Hacker0x01/react-datepicker](https://github.com/Hacker0x01/react-datepicker) - A simple and reusable datepicker component for React
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
@@ -1298,7 +1299,7 @@
 - [serafimcloud/21st](https://github.com/serafimcloud/21st) - npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks
 - [origin-space/originui](https://github.com/origin-space/originui) - Origin UI is an extensive collection of copy-and-paste components for quickly building application UIs. Powered by Tailwind CSS and React.
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
-- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - 🏬 Relivator: Next.js 15 React 19 eCommerce Template ▲ Better-Auth Polar Shadcn/UI Tailwind Drizzle ORM TypeScript TS Radix, Postgres Neon, App Router SaaS Commerce eCommerce Shop Pricing Payments Dark
+- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - 🏬 relivator: next.js 15 react 19 ecommerce template ▲ better-auth polar shadcn/ui tailwind drizzle orm typescript ts radix, postgres neon, app router saas commerce ecommerce shop pricing payments dark
 - [danmindru/page-ui](https://github.com/danmindru/page-ui) - 📃 Landing page UI components for React & Next.js, built on top of TailwindCSS
 - [ui-layouts/uilayouts](https://github.com/ui-layouts/uilayouts) - 🔥100+ Free beautifull interactive react/nextjs component based on tailwindcss, framer-motion, gsap etc
 - [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be
