@@ -753,7 +753,7 @@
 ## cpp 
 
 - [sfu-db/connector-x](https://github.com/sfu-db/connector-x) - Fastest library to load data from DB to DataFrames in Rust and Python
-- [bufbuild/protovalidate](https://github.com/bufbuild/protovalidate) - Protocol Buffer Validation - Go, Java, Python, and C++, with TypeScript coming soon
+- [bufbuild/protovalidate](https://github.com/bufbuild/protovalidate) - Protocol Buffer Validation - Go, Java, Python, C++ and JS/TS
 - [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - A free, open source, multi-platform SQLite database manager.
 - [apache/fury](https://github.com/apache/fury) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
@@ -1578,7 +1578,7 @@
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go.
 - [unrolled/secure](https://github.com/unrolled/secure) - HTTP middleware for Go that facilitates some quick security wins.
-- [bufbuild/protovalidate](https://github.com/bufbuild/protovalidate) - Protocol Buffer Validation - Go, Java, Python, and C++, with TypeScript coming soon
+- [bufbuild/protovalidate](https://github.com/bufbuild/protovalidate) - Protocol Buffer Validation - Go, Java, Python, C++ and JS/TS
 - [connectrpc/vanguard-go](https://github.com/connectrpc/vanguard-go) - Support REST, gRPC, gRPC-Web, and Connect clients with one server.
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
 - [steebchen/prisma-client-go](https://github.com/steebchen/prisma-client-go) - Prisma Client Go is an auto-generated and fully type-safe database client
@@ -2101,7 +2101,7 @@
 
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 - [apache/hbase](https://github.com/apache/hbase) - Apache HBase
-- [bufbuild/protovalidate](https://github.com/bufbuild/protovalidate) - Protocol Buffer Validation - Go, Java, Python, and C++, with TypeScript coming soon
+- [bufbuild/protovalidate](https://github.com/bufbuild/protovalidate) - Protocol Buffer Validation - Go, Java, Python, C++ and JS/TS
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
 - [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
@@ -2146,6 +2146,7 @@
 - [bufbuild/protobuf-es](https://github.com/bufbuild/protobuf-es) - Protocol Buffers for ECMAScript. The only JavaScript Protobuf library that is fully-compliant with Protobuf conformance tests.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
+- [bufbuild/protovalidate](https://github.com/bufbuild/protovalidate) - Protocol Buffer Validation - Go, Java, Python, C++ and JS/TS
 - [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -4229,6 +4230,7 @@
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [stack-auth/stack-auth](https://github.com/stack-auth/stack-auth) - Open-source Auth0/Clerk alternative
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+- [bufbuild/protovalidate](https://github.com/bufbuild/protovalidate) - Protocol Buffer Validation - Go, Java, Python, C++ and JS/TS
 - [bcherny/json-schema-to-typescript](https://github.com/bcherny/json-schema-to-typescript) - Compile JSON Schema to TypeScript type declarations
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
