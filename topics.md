@@ -1732,7 +1732,7 @@
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
-- [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
+- [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
 - [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
@@ -2978,6 +2978,7 @@
 
 ## others 
 
+- [FormidableLabs/react-native-app-auth](https://github.com/FormidableLabs/react-native-app-auth) - React native bridge for AppAuth - an SDK for communicating with OAuth2 providers
 - [LegendApp/legend-list](https://github.com/LegendApp/legend-list) - A high-performance list component for React Native
 - [Shopify/flash-list](https://github.com/Shopify/flash-list) - A better list for React Native
 - [meliorence/react-native-snap-carousel](https://github.com/meliorence/react-native-snap-carousel) - Swiper/carousel component for React Native featuring previews, multiple layouts, parallax images, performant handling of huge numbers of items, and more. Compatible with Android & iOS.
