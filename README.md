@@ -136,6 +136,7 @@
 
 ## Go 
 
+- [cloudwego/abcoder](https://github.com/cloudwego/abcoder) - An ai-assisted-programming development kit, supporting multiple languages
 - [goccy/go-yaml](https://github.com/goccy/go-yaml) - YAML support for the Go language
 - [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
@@ -688,7 +689,6 @@
 - [google/docsy](https://github.com/google/docsy) - Hugo theme for open source documentation
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [dapr/docs](https://github.com/dapr/docs) - Dapr user documentation, used to build docs.dapr.io
-- [prometheus/docs](https://github.com/prometheus/docs) - Prometheus documentation: content and static site generator
 - [projectcontour/contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy.
 - [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
@@ -745,6 +745,7 @@
 
 ## JavaScript 
 
+- [react-native-picker/picker](https://github.com/react-native-picker/picker) - Picker is a cross-platform UI component for selecting an item from a list of options.
 - [meliorence/react-native-snap-carousel](https://github.com/meliorence/react-native-snap-carousel) - Swiper/carousel component for React Native featuring previews, multiple layouts, parallax images, performant handling of huge numbers of items, and more. Compatible with Android & iOS.
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
@@ -1504,6 +1505,7 @@
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
+- [prometheus/docs](https://github.com/prometheus/docs) - Prometheus documentation: content and static site generator
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
