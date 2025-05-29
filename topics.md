@@ -2006,7 +2006,6 @@
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [kudobuilder/kuttl](https://github.com/kudobuilder/kuttl) - KUbernetes Test TooL (kuttl)
-- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [bojand/ghz](https://github.com/bojand/ghz) - Simple gRPC benchmarking and load testing tool
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [okteto/okteto](https://github.com/okteto/okteto) - Develop your applications directly in your Kubernetes Cluster
