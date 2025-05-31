@@ -2533,6 +2533,7 @@
 ## lua 
 
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua
+- [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [zxh0/luago-book](https://github.com/zxh0/luago-book) - 《自己动手实现Lua》随书源代码
 
@@ -2746,6 +2747,7 @@
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [neoclide/coc-snippets](https://github.com/neoclide/coc-snippets) - Snippets solution for coc.nvim
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua
+- [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 
