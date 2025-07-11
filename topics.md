@@ -3659,6 +3659,7 @@
 
 ## react 
 
+- [sadmann7/diceui](https://github.com/sadmann7/diceui) - A collection of composable, unstyled UI primitives for building accessible web applications.
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [react-grid-layout/react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
 - [storybookjs/react-native](https://github.com/storybookjs/react-native) - 📓 Storybook for React Native!
@@ -4428,6 +4429,7 @@
 
 ## ui 
 
+- [sadmann7/diceui](https://github.com/sadmann7/diceui) - A collection of composable, unstyled UI primitives for building accessible web applications.
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 - [formatjs/formatjs](https://github.com/formatjs/formatjs) - The monorepo home to all of the FormatJS related libraries, most notably react-intl.
 - [gluestack/gluestack-ui](https://github.com/gluestack/gluestack-ui) - React & React Native Components & Patterns (copy-paste components & patterns crafted with Tailwind CSS (NativeWind))
