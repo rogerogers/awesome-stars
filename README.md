@@ -1087,7 +1087,7 @@
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the Open Cloud Security platform for AWS, Azure, GCP, Kubernetes, M365 and more. It helps for continuos monitoring, security assessments and audits, incident response, compliance, hardening
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the Open Cloud Security platform for AWS, Azure, GCP, Kubernetes, M365 and more. It helps for continuous monitoring, security assessments & audits, incident response, compliance, hardening 
 - [microsoft/BioGPT](https://github.com/microsoft/BioGPT) - 
 - [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
