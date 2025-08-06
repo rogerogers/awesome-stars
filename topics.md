@@ -1477,7 +1477,7 @@
 - [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine
 - [cloudwego/runtimex](https://github.com/cloudwego/runtimex) - Runtimex package help to expose Go Runtime internals representation safely.
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt
 - [cloudwego/biz-demo](https://github.com/cloudwego/biz-demo) - Business Demo for CloudWeGo
 - [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management.
@@ -1689,7 +1689,7 @@
 - [cloudwego/runtimex](https://github.com/cloudwego/runtimex) - Runtimex package help to expose Go Runtime internals representation safely.
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [go-gorm/gen](https://github.com/go-gorm/gen) - Gen:  Friendly & Safer GORM powered by Code Generation
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [apenella/go-ansible](https://github.com/apenella/go-ansible) - Go-ansible is a Go package that enables the execution of ansible-playbook or ansible commands directly from Golang applications. It supports a wide range of options for each command, enabling smooth i
@@ -2594,7 +2594,7 @@
 - [zai-org/CogVideo](https://github.com/zai-org/CogVideo) - text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [QwenLM/Qwen](https://github.com/QwenLM/Qwen) - The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
@@ -3112,6 +3112,7 @@
 
 ## others 
 
+- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React
 - [react-grid-layout/react-draggable](https://github.com/react-grid-layout/react-draggable) - React draggable component
@@ -3121,7 +3122,7 @@
 - [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - LLM UI with advanced features, easy setup, and multiple backend support.
 - [react-native-community/hooks](https://github.com/react-native-community/hooks) - React Native APIs turned into React Hooks for use in functional React components
-- [cloudwego/abcoder](https://github.com/cloudwego/abcoder) - Deep, Reliable and Confidential Coding Context
+- [cloudwego/abcoder](https://github.com/cloudwego/abcoder) - deep, reliable and confidential coding-context
 - [react-native-webview/react-native-webview](https://github.com/react-native-webview/react-native-webview) - React Native Cross-Platform WebView
 - [FormidableLabs/react-native-app-auth](https://github.com/FormidableLabs/react-native-app-auth) - React native bridge for AppAuth - an SDK for communicating with OAuth2 providers
 - [LegendApp/legend-list](https://github.com/LegendApp/legend-list) - A high-performance list component for React Native
@@ -4685,7 +4686,6 @@
 - [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - A progressive web framework based on React and Rsbuild.
 - [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Yao is an all-in-one application engine that enables developers to create web apps, REST APIs, business applications, and more, with AI as a development partner.
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
-- [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io) - The OpenTelemetry website and documentation
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 
 ## windows 
