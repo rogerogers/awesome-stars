@@ -1933,6 +1933,7 @@
 
 ## hacktoberfest 
 
+- [sympy/sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python
 - [mrousavy/react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) - ⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!
 - [react-native-menu/menu](https://github.com/react-native-menu/menu) - UIMenu Component for React Native
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
@@ -3135,6 +3136,7 @@
 
 ## others 
 
+- [nandorojo/burnt](https://github.com/nandorojo/burnt) - Crunchy toasts for React Native. 🍞
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [Shopify/shopify-app-template-react-router](https://github.com/Shopify/shopify-app-template-react-router) - An template for building Shopify Apps using React Router v7 and above
 - [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
@@ -3585,6 +3587,7 @@
 
 ## python 
 
+- [sympy/sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python
 - [rootsongjc/pdf-book-exporter](https://github.com/rootsongjc/pdf-book-exporter) - A CLI tool to export eBooks written in Hugo markdown to PDF
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
@@ -3917,6 +3920,7 @@
 
 ## react-native 
 
+- [calintamas/react-native-toast-message](https://github.com/calintamas/react-native-toast-message) - Animated toast message component for React Native
 - [mrousavy/react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) - ⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!
 - [aws-samples/swift-chat](https://github.com/aws-samples/swift-chat) - A lightning-fast, cross-platform AI chat application built with React Native.
 - [zahidalidev/toastify-react-native](https://github.com/zahidalidev/toastify-react-native) - 🎉 toastify-react-native allows you to add notifications to your react-native app (ios, android) with ease. No more nonsense!
