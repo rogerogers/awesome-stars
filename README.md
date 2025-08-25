@@ -766,6 +766,7 @@
 
 ## JavaScript 
 
+- [facebook/jscodeshift](https://github.com/facebook/jscodeshift) - A JavaScript codemod toolkit.
 - [invertase/react-native-firebase](https://github.com/invertase/react-native-firebase) - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
 - [atlassian/react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
 - [react-grid-layout/react-draggable](https://github.com/react-grid-layout/react-draggable) - React draggable component
@@ -1353,6 +1354,7 @@
 
 ## TypeScript 
 
+- [founded-labs/react-native-reusables](https://github.com/founded-labs/react-native-reusables) - Bringing shadcn/ui to React Native. Beautifully crafted components with Nativewind, open source, and almost as easy to use.
 - [expo/react-native-action-sheet](https://github.com/expo/react-native-action-sheet) - A cross-platform ActionSheet for React Native
 - [calintamas/react-native-toast-message](https://github.com/calintamas/react-native-toast-message) - Animated toast message component for React Native
 - [streamich/memfs](https://github.com/streamich/memfs) - Node fs and browser File System API adapters and in-memory implementations 👍
