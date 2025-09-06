@@ -761,6 +761,7 @@
 
 ## JavaScript 
 
+- [JedWatson/classnames](https://github.com/JedWatson/classnames) - A simple javascript utility for conditionally joining classNames together
 - [facebook/jscodeshift](https://github.com/facebook/jscodeshift) - A JavaScript codemod toolkit.
 - [atlassian/react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
 - [react-grid-layout/react-draggable](https://github.com/react-grid-layout/react-draggable) - React draggable component
@@ -1361,7 +1362,7 @@
 - [zahidalidev/toastify-react-native](https://github.com/zahidalidev/toastify-react-native) - 🎉 toastify-react-native allows you to add notifications to your react-native app (ios, android) with ease. No more nonsense!
 - [testshallpass/react-native-dropdownalert](https://github.com/testshallpass/react-native-dropdownalert) - An alert to notify users about an error or something else
 - [jpudysz/react-native-unistyles](https://github.com/jpudysz/react-native-unistyles) - Level up your React Native StyleSheet
-- [kirillzyusko/react-native-keyboard-controller](https://github.com/kirillzyusko/react-native-keyboard-controller) - Keyboard manager which works in identical way on both iOS and Android ⌨️
+- [kirillzyusko/react-native-keyboard-controller](https://github.com/kirillzyusko/react-native-keyboard-controller) - ⌨️ Keyboard manager which works in identical way on both iOS and Android
 - [software-mansion/react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) - Declarative API exposing platform native touch and gesture system to React Native.
 - [gorhom/react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet) - A performant interactive bottom sheet with fully configurable options 🚀
 - [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) - :boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode
