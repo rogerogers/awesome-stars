@@ -931,7 +931,6 @@
 - [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
-- [mayuelala/FollowYourClick](https://github.com/mayuelala/FollowYourClick) - [AAAI 2025] Follow-Your-Click: This repo is the official implementation of "Follow-Your-Click: Open-domain Regional Image Animation via Short Prompts"
 - [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 精益副业：程序员如何优雅地做副业
 - [StyraOSS/awesome-opa](https://github.com/StyraOSS/awesome-opa) - A curated list of OPA related tools, frameworks and articles
 - [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps) - Ultimate DevSecOps library
@@ -1037,6 +1036,7 @@
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [graphql-python/graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
+- [mayuelala/FollowYourClick](https://github.com/mayuelala/FollowYourClick) - [AAAI 2025] Follow-Your-Click: This repo is the official implementation of "Follow-Your-Click: Open-domain Regional Image Animation via Short Prompts"
 - [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [levihsu/OOTDiffusion](https://github.com/levihsu/OOTDiffusion) - [AAAI 2025] Official implementation of "OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on"
