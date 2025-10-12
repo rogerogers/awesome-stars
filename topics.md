@@ -3210,6 +3210,7 @@
 
 ## others 
 
+- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 - [unjs/unbuild](https://github.com/unjs/unbuild) - 📦 A unified JavaScript build system
 - [Bekacru/better-fetch](https://github.com/Bekacru/better-fetch) - Advanced fetch wrapper for typescript
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
