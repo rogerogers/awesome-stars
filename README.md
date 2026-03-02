@@ -1061,7 +1061,7 @@
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) - Enjoy the magic of Diffusion models!
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration.
 - [robotframework/robotframework](https://github.com/robotframework/robotframework) - Generic automation framework for acceptance testing and RPA
 - [julien-duponchelle/python-mysql-replication](https://github.com/julien-duponchelle/python-mysql-replication) - Pure Python Implementation of MySQL replication protocol build on top of PyMYSQL
