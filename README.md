@@ -246,7 +246,7 @@
 - [open-telemetry/opamp-go](https://github.com/open-telemetry/opamp-go) - OpAMP protocol implementation in Go
 - [bytedance/gopkg](https://github.com/bytedance/gopkg) - Universal Utilities for Go
 - [wasmerio/wasmer-go](https://github.com/wasmerio/wasmer-go) - 🐹🕸️ WebAssembly runtime for Go
-- [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
+- [vale-cli/vale](https://github.com/vale-cli/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [ariga/atlas](https://github.com/ariga/atlas) - Declarative schema migrations with schema-as-code workflows
 - [gosimple/slug](https://github.com/gosimple/slug) - URL-friendly slugify with multiple languages support.
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client
