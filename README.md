@@ -1147,6 +1147,7 @@
 
 ## Rust 
 
+- [vicanso/pingap](https://github.com/vicanso/pingap) - A reverse proxy like nginx, built on pingora, simple and efficient.
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
@@ -1279,6 +1280,9 @@
 
 ## TypeScript 
 
+- [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
+- [onecli/onecli](https://github.com/onecli/onecli) - Open-source credential vault, give your AI agents access to services without exposing keys.
+- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 - [huntabyte/bits-ui](https://github.com/huntabyte/bits-ui) - The headless components for Svelte.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [vikejs/vike](https://github.com/vikejs/vike) - (Replaces Next.js/Nuxt) 🔨 Composable framework to build advanced applications with flexibility and stability.
