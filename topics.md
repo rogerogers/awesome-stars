@@ -3580,7 +3580,7 @@
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 - [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
-- [cursor/cursor](https://github.com/cursor/cursor) - The AI Code Editor
+- [cursor/cursor](https://github.com/cursor/cursor) - 
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 - [bufbuild/protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) - Protocol Buffer Validation - replaced by https://github.com/bufbuild/protovalidate
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
