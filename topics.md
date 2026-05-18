@@ -3569,7 +3569,7 @@
 - [Shopify/shopify-app-js](https://github.com/Shopify/shopify-app-js) - 
 - [bold-commerce/go-shopify](https://github.com/bold-commerce/go-shopify) - Go client for the Shopify API
 - [sergiodxa/remix-auth](https://github.com/sergiodxa/remix-auth) - Simple Authentication for Remix
-- [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A way to manage your versioning and changelogs with a focus on monorepos
+- [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A tool to manage versioning and changelogs with a focus on monorepos
 - [kubernetes-sigs/ingress2gateway](https://github.com/kubernetes-sigs/ingress2gateway) - Convert Ingress resources to Gateway API resources
 - [uuidjs/uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
@@ -3629,7 +3629,6 @@
 - [tidwall/btree](https://github.com/tidwall/btree) - B-tree implementation for Go
 - [nacos-group/nacos-sdk-go](https://github.com/nacos-group/nacos-sdk-go) - Nacos client in Golang
 - [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.
-- [s0md3v/roop](https://github.com/s0md3v/roop) - 
 - [hashicorp/go-retryablehttp](https://github.com/hashicorp/go-retryablehttp) - Retryable HTTP client in Go
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [google/buzzer](https://github.com/google/buzzer) - 
