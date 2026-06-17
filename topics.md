@@ -1770,7 +1770,7 @@
 - [apache/cassandra-gocql-driver](https://github.com/apache/cassandra-gocql-driver) - GoCQL Driver for Apache Cassandra®
 - [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Official Golang driver for MongoDB
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [google/cel-go](https://github.com/google/cel-go) - Fast, portable, non-Turing complete expression evaluation with gradual typing (Go)
+- [cel-expr/cel-go](https://github.com/cel-expr/cel-go) - Fast, portable, non-Turing complete expression evaluation with gradual typing (Go)
 - [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
 - [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
@@ -1963,7 +1963,7 @@
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
-- [google/cel-go](https://github.com/google/cel-go) - Fast, portable, non-Turing complete expression evaluation with gradual typing (Go)
+- [cel-expr/cel-go](https://github.com/cel-expr/cel-go) - Fast, portable, non-Turing complete expression evaluation with gradual typing (Go)
 - [cnych/qikqiak.com](https://github.com/cnych/qikqiak.com) - 关注 chatgpt、容器、kubernetes、devops、python、golang、微服务等技术 🎉🎉🎉
 - [cloudwego/netpoll](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework focusing on RPC scenarios.
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
@@ -2648,7 +2648,7 @@
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
 - [openelb/openelb](https://github.com/openelb/openelb) - Load Balancer Implementation for Kubernetes in Bare-Metal, Edge, and Virtualization
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
-- [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets
+- [bitnami/sealed-secrets](https://github.com/bitnami/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets
 - [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
 - [minio/directpv](https://github.com/minio/directpv) - Kubernetes CSI driver for Direct Attached Storage :minidisc:
@@ -3532,7 +3532,7 @@
 - [moby/swarmkit](https://github.com/moby/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
 - [hashicorp/go-version](https://github.com/hashicorp/go-version) - A Go (golang) library for parsing and verifying versions and version constraints.
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
-- [google/cel-spec](https://github.com/google/cel-spec) - Common Expression Language -- specification and binary representation
+- [cel-expr/cel-spec](https://github.com/cel-expr/cel-spec) - Common Expression Language -- specification and binary representation
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [cloudflare/cbpfc](https://github.com/cloudflare/cbpfc) - cBPF to C or eBPF compiler
 - [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
