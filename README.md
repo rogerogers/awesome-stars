@@ -1351,7 +1351,7 @@
 - [calintamas/react-native-toast-message](https://github.com/calintamas/react-native-toast-message) - Animated toast message component for React Native
 - [streamich/memfs](https://github.com/streamich/memfs) - Node.js "fs" and browser "File System API" adapters and in-memory implementations 👍
 - [mrousavy/react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) - ⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!
-- [aws-samples/sample-vif-chat-app](https://github.com/aws-samples/sample-vif-chat-app) - A lightning-fast, cross-platform AI Assistant App built with React Native.
+- [aws-samples/sample-mobile-ai-assistant](https://github.com/aws-samples/sample-mobile-ai-assistant) - A lightning-fast, cross-platform mobile AI Assistant App built with React Native.
 - [Shopify/shopify-app-template-react-router](https://github.com/Shopify/shopify-app-template-react-router) - A template for building Shopify Apps using React Router version 7 and above
 - [zahidalidev/toastify-react-native](https://github.com/zahidalidev/toastify-react-native) - 🎉 toastify-react-native allows you to add notifications to your react-native app (ios, android) with ease. No more nonsense!
 - [testshallpass/react-native-dropdownalert](https://github.com/testshallpass/react-native-dropdownalert) - An alert to notify users about an error or something else
