@@ -275,7 +275,7 @@
 - [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
-- [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
+- [mxschmitt/playwright-go](https://github.com/mxschmitt/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static analysis tool to detect potential nil panics in Go code
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
@@ -1293,6 +1293,7 @@
 
 ## TypeScript 
 
+- [cloudflare/agentic-inbox](https://github.com/cloudflare/agentic-inbox) - A self-hosted email client with an AI agent, running entirely on Cloudflare Workers
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
