@@ -7,6 +7,7 @@
 
 - [3d](#3d)
 - [agent](#agent)
+- [agent-skills](#agent-skills)
 - [agents](#agents)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
@@ -301,6 +302,10 @@
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [fake-useragent/fake-useragent](https://github.com/fake-useragent/fake-useragent) - Up-to-date simple useragent faker with real world database
 - [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database.
+
+## agent-skills 
+
+- [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
 
 ## agents 
 
@@ -3451,6 +3456,7 @@
 
 ## others 
 
+- [cedar-policy/cedar](https://github.com/cedar-policy/cedar) - Implementation of the Cedar Policy Language
 - [cloudflare/agentic-inbox](https://github.com/cloudflare/agentic-inbox) - A self-hosted email client with an AI agent, running entirely on Cloudflare Workers
 - [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native) - Build desktop + mobile apps with Zig and web UI
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
@@ -3480,7 +3486,6 @@
 - [vercel-labs/bash-tool](https://github.com/vercel-labs/bash-tool) - A bash tool for AI SDK
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - The agent engineering platform
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
-- [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
 - [ICRAR/ijson](https://github.com/ICRAR/ijson) - Iterative JSON parser with Pythonic interfaces
 - [Shopify/liquid](https://github.com/Shopify/liquid) - Liquid markup language. Safe, customer facing template language for flexible web apps.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
@@ -3613,7 +3618,7 @@
 - [KDE/kdenlive](https://github.com/KDE/kdenlive) - Free and open source video editor, based on MLT Framework and KDE Frameworks
 - [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) - Go-blueprint allows users to spin up a quick Go project using a popular framework
 - [martinblech/xmltodict](https://github.com/martinblech/xmltodict) - Python module that makes working with XML feel like you are working with JSON
-- [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust that unifies all your formatters in one tool.
+- [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform that unifies all your formatters.
 - [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（2024 edition 施工完毕）
 - [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
 - [radius-project/radius](https://github.com/radius-project/radius) - Radius is a cloud-native, portable application platform that makes app development easier for teams building cloud-native apps.
