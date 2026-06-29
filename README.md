@@ -1155,6 +1155,7 @@
 
 ## Rust 
 
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [cedar-policy/cedar](https://github.com/cedar-policy/cedar) - Implementation of the Cedar Policy Language
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
