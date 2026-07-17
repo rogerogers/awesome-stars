@@ -459,7 +459,7 @@
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
+- [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
 
 ## android 
 
@@ -483,7 +483,7 @@
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and web with a single Go codebase, allowing you to Code Once, Run 
-- [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
+- [lysine-dev/okhttp](https://github.com/lysine-dev/okhttp) - A meticulous HTTP client for the JVM, Android, and GraalVM.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [xszyou/Fay](https://github.com/xszyou/Fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Build realtime web, mobile and desktop apps in Python only. No frontend experience required.
@@ -532,7 +532,6 @@
 - [eolinker/apinto](https://github.com/eolinker/apinto) - 基于golang开发的网关。具有各种插件，可以自行扩展，即插即用。此外，它可以快速帮助企业管理API服务，提高API服务的稳定性和安全性。
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [nginx/agent](https://github.com/nginx/agent) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
-- [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - The official Go library for the Cloudflare API
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -1179,7 +1178,7 @@
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now speaking Postgres. The LLVM of databases.
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more.
 - [invertase/react-native-firebase](https://github.com/invertase/react-native-firebase) - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
@@ -2283,7 +2282,6 @@
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
 - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms and Data Structures implemented in Go for beginners, following best practices.
-- [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
@@ -2469,7 +2467,7 @@
 - [bufbuild/protovalidate](https://github.com/bufbuild/protovalidate) - Protocol Buffer Validation - Go, Java, Python, C++ and JS/TS
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
-- [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
+- [lysine-dev/okhttp](https://github.com/lysine-dev/okhttp) - A meticulous HTTP client for the JVM, Android, and GraalVM.
 - [apache/avro](https://github.com/apache/avro) - Apache Avro is a data serialization system.
 - [quarkusio/quarkus](https://github.com/quarkusio/quarkus) - Quarkus: Supersonic Subatomic Java.
 - [grpc/grpc-java](https://github.com/grpc/grpc-java) - The Java gRPC implementation. HTTP/2 based RPC
@@ -2594,13 +2592,12 @@
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [statsd/statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation
-- [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - An open source platform for Python in the browser. https://pyscript.net Docs: https://docs.pyscript.net/ Try it: https://pyscript.com/ Community: https://discord.gg/HxvBtukrg2
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
+- [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
@@ -2641,7 +2638,7 @@
 
 ## kotlin 
 
-- [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
+- [lysine-dev/okhttp](https://github.com/lysine-dev/okhttp) - A meticulous HTTP client for the JVM, Android, and GraalVM.
 - [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - IdeaVim – A Vim engine for JetBrains IDEs
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 
@@ -2915,7 +2912,6 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new, MCP server
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
-- [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 
@@ -3203,7 +3199,6 @@
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [stephenh/ts-proto](https://github.com/stephenh/ts-proto) - An idiomatic protobuf generator for TypeScript
-- [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 
 ## neural-network 
 
@@ -3250,7 +3245,6 @@
 - [mayooear/ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - AI PDF chatbot agent built with LangChain & LangGraph
 - [saleor/storefront](https://github.com/saleor/storefront) - Saleor Storefront built using React, Next.js with App Router, TypeScript, GraphQL, and Tailwind CSS.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-- [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log mana
 
@@ -3280,7 +3274,6 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
-- [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 
 ## node 
@@ -4079,7 +4072,7 @@
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
+- [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
 - [biolab/orange3](https://github.com/biolab/orange3) - 🍊 :bar_chart: :bulb: Orange: Interactive data analysis
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on delimited files and multi-file sqlite databases
@@ -4265,6 +4258,7 @@
 - [i18next/next-i18next](https://github.com/i18next/next-i18next) - The easiest way to translate your NextJs apps.
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
+- [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) - Open source admin dashboard starter built with Next.js 16, shadcn/ui, Tailwind CSS, and TypeScript.
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [medusajs/nextjs-starter-medusa](https://github.com/medusajs/nextjs-starter-medusa) - A performant frontend ecommerce starter template with Next.js
 - [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management.
@@ -4287,7 +4281,6 @@
 - [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [umijs/umi](https://github.com/umijs/umi) - A framework in react community ✨
-- [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
@@ -4298,7 +4291,7 @@
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [mdnice/markdown-nice](https://github.com/mdnice/markdown-nice) - 支持主题设计的 Markdown 编辑器，让排版变 Nice
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
+- [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - React-based framework with performance, scalability, and security built in.
 - [saleor/saleor-dashboard](https://github.com/saleor/saleor-dashboard) - A GraphQL-powered, single-page dashboard application for Saleor.
@@ -4674,13 +4667,12 @@
 ## spring 
 
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
-- [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 
 ## sql 
 
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now speaking Postgres. The LLVM of databases.
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [bytebase/dbhub](https://github.com/bytebase/dbhub) - Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for
@@ -5024,6 +5016,7 @@
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
+- [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) - Open source admin dashboard starter built with Next.js 16, shadcn/ui, Tailwind CSS, and TypeScript.
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [medusajs/nextjs-starter-medusa](https://github.com/medusajs/nextjs-starter-medusa) - A performant frontend ecommerce starter template with Next.js
@@ -5046,14 +5039,13 @@
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-- [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log mana
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
+- [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [saleor/saleor-dashboard](https://github.com/saleor/saleor-dashboard) - A GraphQL-powered, single-page dashboard application for Saleor.
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
