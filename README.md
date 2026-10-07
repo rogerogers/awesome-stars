@@ -83,6 +83,7 @@
 
 ## C++ 
 
+- [jurplel/qView](https://github.com/jurplel/qView) - Practical and minimal image viewer
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [TigerVNC/tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server
 - [microsoft/react-native-windows](https://github.com/microsoft/react-native-windows) - A framework for building native Windows apps with React.
@@ -948,7 +949,7 @@
 - [facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) - Code to accompany "A Method for Animating Children's Drawings of the Human Figure"
 - [pathwaycom/pathway](https://github.com/pathwaycom/pathway) - Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python APIs for Browser Automation and End-to-End Testing. Bypasses bot-detection and CAPTCHAs with UC Mode / CDP Mode.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A framework + Python APIs for web automation, end-to-end testing, and bypassing bot-detection/CAPTCHAs. Works with Selenium and Playwright. Includes lots of tools and examples.
 - [cloudflare/python-workers-examples](https://github.com/cloudflare/python-workers-examples) - 
 - [mher/flower](https://github.com/mher/flower) - Real-time monitor and web admin for Celery distributed task queue
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
